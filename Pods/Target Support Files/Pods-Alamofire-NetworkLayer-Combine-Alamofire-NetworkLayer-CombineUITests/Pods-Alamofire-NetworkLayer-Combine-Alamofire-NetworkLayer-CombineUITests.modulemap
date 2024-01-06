@@ -1,0 +1,6 @@
+framework module Pods_Alamofire_NetworkLayer_Combine_Alamofire_NetworkLayer_CombineUITests {
+  umbrella header "Pods-Alamofire-NetworkLayer-Combine-Alamofire-NetworkLayer-CombineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
